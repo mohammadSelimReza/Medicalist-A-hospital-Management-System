@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="336" height="95" viewBox="0 0 336 95">
+  <defs>
+    <clipPath id="clip-Medicalist_logo">
+      <rect width="336" height="95"/>
+    </clipPath>
+  </defs>
+  <g id="Medicalist_logo" data-name="Medicalist logo" clip-path="url(#clip-Medicalist_logo)">
+    <text id="Medicalist" transform="translate(87 64)" fill="#4c4c4c" font-size="45" font-family="Epilogue-ExtraBold, Epilogue" font-weight="800" letter-spacing="0.01em"><tspan x="0" y="0" fill="#000">Medica</tspan><tspan y="0" fill="#4c4c4c">list</tspan></text>
+    <g id="Group_1" data-name="Group 1">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="10" cy="10" r="10" transform="translate(25 1)" fill="#12ae99"/>
+      <path id="Path_1" data-name="Path 1" d="M820.2,552.988l-18.832-18.716a17.163,17.163,0,0,1-2.707-17.935c1.724-3.811,6.536-10.187,19.382-10.065l-.076,8c-4.358-.042-9.979.856-12.018,5.362a9.036,9.036,0,0,0,1.217,9.131l18.673,18.548Z" transform="translate(-796 -494)" fill="#12ae99"/>
+      <path id="Path_2" data-name="Path 2" d="M818.107,506.289s3.281,12.083,12.512,12.462c11.474-.356,13.086-12.462,13.086-12.462l1.88,7.275s-9.17,9.666-13.789,12.791h-1.588c-2.588,0-14.782-12.791-14.782-12.791Z" transform="translate(-796 -494)" fill="#12ae99"/>
+      <path id="Path_3" data-name="Path 3" d="M817.892,539.539l-5.808-5.5,5.072-5.353a9.151,9.151,0,0,0,1.268-9.167c-1.964-4.342-7.487-5.207-11.773-5.165l-.076-8c12.71-.12,17.447,6.13,19.137,9.867a17.253,17.253,0,0,1-2.673,17.884Z" transform="translate(-759 -494)" fill="#12ae99"/>
+      <path id="Path_4" data-name="Path 4" d="M2,0C3.1,0,3.563,1.172,3.563,2A1.487,1.487,0,0,1,1.906,3.516c-1.1,0-2.547-.8-2.547-1.625S.9,0,2,0Z" transform="translate(33 29)" fill="#12ae99"/>
+      <path id="Path_5" data-name="Path 5" d="M3.445.487C6.969,2.578,9.031,2.219,9.359,4.625A4.2,4.2,0,0,1,5.116,9.652C2.5,9.546,2.8,8.156,2.446,5.715,2.446,3.229.96.487,3.445.487Z" transform="translate(21 50)" fill="#12ae99"/>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(5.228 34)">
+      <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="10" cy="10" r="10" transform="translate(19.118 38.655)" fill="#1f8dcc"/>
+      <path id="Path_1-2" data-name="Path 1" d="M806.564,554.151l-.36,0,.076-8c4.356.04,9.979-.856,12.018-5.362a9.036,9.036,0,0,0-1.217-9.131l-18.673-18.548,5.639-5.674L822.88,526.15a17.163,17.163,0,0,1,2.707,17.935C823.878,547.86,819.141,554.151,806.564,554.151Z" transform="translate(-764.127 -506.766)" fill="#1f8dcc"/>
+      <path id="Path_2-2" data-name="Path 2" d="M842.9,526.355s-1.684-12.237-12.512-12.462c-11.012.008-13.086,12.462-13.086,12.462l-1.88-7.275s9.17-9.666,13.789-12.791H830.8c2.588,0,14.782,12.791,14.782,12.791Z" transform="translate(-800.894 -478.989)" fill="#1f8dcc"/>
+      <path id="Path_3-2" data-name="Path 3" d="M822.8,540.787c-12.443,0-17.1-6.167-18.778-9.868a17.253,17.253,0,0,1,2.673-17.884l5.147-5.435,5.808,5.5-5.072,5.353a9.151,9.151,0,0,0-1.268,9.167c1.964,4.342,7.486,5.2,11.773,5.165l.076,8Z" transform="translate(-806.613 -493.483)" fill="#1f8dcc"/>
+      <path id="Path_4-2" data-name="Path 4" d="M.922,3.516c-1.1,0-1.562-1.172-1.562-2A1.487,1.487,0,0,1,1.016,0c1.1,0,2.547.8,2.547,1.625S2.026,3.516.922,3.516Z" transform="translate(28.196 27.139)" fill="#1f8dcc"/>
+      <path id="Path_5-2" data-name="Path 5" d="M8,9.655C4.478,7.564,2.416,7.923,2.087,5.517A4.2,4.2,0,0,1,6.331.49C8.945.6,8.65,1.985,9,4.427,9,6.912,10.487,9.655,8,9.655Z" transform="translate(31.671 -0.487)" fill="#1f8dcc"/>
+    </g>
+  </g>
+</svg>

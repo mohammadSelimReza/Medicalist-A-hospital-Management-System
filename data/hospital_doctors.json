@@ -1,0 +1,202 @@
+{
+    "doctors": [
+      {
+        "doctor_id": 1,
+        "full_name": "Dr. John Doe",
+        "image": "img/doctor/docm1.png",
+        "designation": "Cardiologist",
+        "specialization": "Cardiology",
+        "available_time": "09:00 AM - 01:00 PM",
+        "fee": "$150",
+        "meet_link": "https://example.com/meet/johndoe"
+      },
+      {
+        "doctor_id": 2,
+        "full_name": "Dr. Jane Smith",
+        "image": "img/doctor/docm2.png",
+        "designation": "Orthopedic Surgeon",
+        "specialization": "Orthopedics",
+        "available_time": "10:00 AM - 02:00 PM",
+        "fee": "$200",
+        "meet_link": "https://example.com/meet/janesmith"
+      },
+      {
+        "doctor_id": 3,
+        "full_name": "Dr. Albert Brown",
+        "image": "img/doctor/docm3.jpg",
+        "designation": "Dermatologist",
+        "specialization": "Dermatology",
+        "available_time": "11:00 AM - 03:00 PM",
+        "fee": "$180",
+        "meet_link": "https://example.com/meet/albertbrown"
+      },
+      {
+        "doctor_id": 4,
+        "full_name": "Dr. Emily White",
+        "image": "img/doctor/docm4.jpg",
+        "designation": "Pediatrician",
+        "specialization": "Pediatrics",
+        "available_time": "08:00 AM - 12:00 PM",
+        "fee": "$130",
+        "meet_link": "https://example.com/meet/emilywhite"
+      },
+      {
+        "doctor_id": 5,
+        "full_name": "Dr. Michael Green",
+        "image": "img/doctor/docm5.jpg",
+        "designation": "Neurologist",
+        "specialization": "Neurology",
+        "available_time": "01:00 PM - 05:00 PM",
+        "fee": "$250",
+        "meet_link": "https://example.com/meet/michaelgreen"
+      },
+      {
+        "doctor_id": 6,
+        "full_name": "Dr. Sarah Davis",
+        "image": "img/doctor/docm6.jpg",
+        "designation": "Gynecologist",
+        "specialization": "Gynecology",
+        "available_time": "09:00 AM - 01:00 PM",
+        "fee": "$170",
+        "meet_link": "https://example.com/meet/sarahdavis"
+      },
+      {
+        "doctor_id": 7,
+        "full_name": "Dr. William Harris",
+        "image": "img/doctor/docm7.png",
+        "designation": "Oncologist",
+        "specialization": "Oncology",
+        "available_time": "02:00 PM - 06:00 PM",
+        "fee": "$300",
+        "meet_link": "https://example.com/meet/williamharris"
+      },
+      {
+        "doctor_id": 8,
+        "full_name": "Dr. Olivia Taylor",
+        "image": "img/doctor/docm8.png",
+        "designation": "Endocrinologist",
+        "specialization": "Endocrinology",
+        "available_time": "08:00 AM - 12:00 PM",
+        "fee": "$220",
+        "meet_link": "https://example.com/meet/oliviataylor"
+      },
+      {
+        "doctor_id": 9,
+        "full_name": "Dr. James Wilson",
+        "image": "img/doctor/docm9.jpg",
+        "designation": "Psychiatrist",
+        "specialization": "Psychiatry",
+        "available_time": "11:00 AM - 03:00 PM",
+        "fee": "$190",
+        "meet_link": "https://example.com/meet/jameswilson"
+      },
+      {
+        "doctor_id": 10,
+        "full_name": "Dr. Sophia Martinez",
+        "image": "img/doctor/docm10.jpg",
+        "designation": "Ophthalmologist",
+        "specialization": "Ophthalmology",
+        "available_time": "10:00 AM - 02:00 PM",
+        "fee": "$160",
+        "meet_link": "https://example.com/meet/sophiamartinez"
+      },
+      {
+        "doctor_id": 11,
+        "full_name": "Dr. Daniel Lee",
+        "image": "img/doctor/docm11.jpg",
+        "designation": "Pulmonologist",
+        "specialization": "Pulmonology",
+        "available_time": "01:00 PM - 05:00 PM",
+        "fee": "$240",
+        "meet_link": "https://example.com/meet/daniellee"
+      },
+      {
+        "doctor_id": 12,
+        "full_name": "Dr. Isabella Anderson",
+        "image": "img/doctor/docm12.jpg",
+        "designation": "Nephrologist",
+        "specialization": "Nephrology",
+        "available_time": "09:00 AM - 01:00 PM",
+        "fee": "$210",
+        "meet_link": "https://example.com/meet/isabellaanderson"
+      },
+      {
+        "doctor_id": 13,
+        "full_name": "Dr. Henry Clark",
+        "image": "img/doctor/docm13.jpg",
+        "designation": "Urologist",
+        "specialization": "Urology",
+        "available_time": "10:00 AM - 02:00 PM",
+        "fee": "$230",
+        "meet_link": "https://example.com/meet/henryclark"
+      },
+      {
+        "doctor_id": 14,
+        "full_name": "Dr. Mia Walker",
+        "image": "img/doctor/docm14.jpg",
+        "designation": "Rheumatologist",
+        "specialization": "Rheumatology",
+        "available_time": "08:00 AM - 12:00 PM",
+        "fee": "$180",
+        "meet_link": "https://example.com/meet/miawalker"
+      },
+      {
+        "doctor_id": 15,
+        "full_name": "Dr. Alexander King",
+        "image": "img/doctor/docm15.jpg",
+        "designation": "Gastroenterologist",
+        "specialization": "Gastroenterology",
+        "available_time": "01:00 PM - 05:00 PM",
+        "fee": "$250",
+        "meet_link": "https://example.com/meet/alexanderking"
+      },
+      {
+        "doctor_id": 16,
+        "full_name": "Dr. Ava Wright",
+        "image": "img/doctor/docm16.jpg",
+        "designation": "Hematologist",
+        "specialization": "Hematology",
+        "available_time": "11:00 AM - 03:00 PM",
+        "fee": "$260",
+        "meet_link": "https://example.com/meet/avawright"
+      },
+      {
+        "doctor_id": 17,
+        "full_name": "Dr. Mason Scott",
+        "image": "img/doctor/docm17.jpg",
+        "designation": "Immunologist",
+        "specialization": "Immunology",
+        "available_time": "09:00 AM - 01:00 PM",
+        "fee": "$220",
+        "meet_link": "https://example.com/meet/masonscott"
+      },
+      {
+        "doctor_id": 18,
+        "full_name": "Dr. Ella Evans",
+        "image": "img/doctor/docm18.jpg",
+        "designation": "Podiatrist",
+        "specialization": "Podiatry",
+        "available_time": "02:00 PM - 06:00 PM",
+        "fee": "$200",
+        "meet_link": "https://example.com/meet/ellaevans"
+      },
+      {
+        "doctor_id": 19,
+        "full_name": "Dr. Lucas Carter",
+        "image": "img/doctor/docm19.jpg",
+        "designation": "Otolaryngologist",
+        "specialization": "Otolaryngology",
+        "available_time": "08:00 AM - 12:00 PM",
+        "fee": "$240",
+        "meet_link": "https://example.com/meet/lucascarter"
+      }
+    ],
+    "pagination": {
+      "total_doctors": 19,
+      "limit": 6,
+      "offset": 0,
+      "next": "https://example.com/api/doctors?offset=6&limit=6",
+      "previous": null
+    }
+  }
+  

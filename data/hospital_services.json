@@ -1,0 +1,75 @@
+[
+    {
+      "service_id": 1,
+      "service_name": "General Consultation",
+      "description": "Provides a general medical examination and diagnosis.",
+      "department": "General Medicine",
+      "cost": 50.00,
+      "available": true,
+      "picture_url": "img/general_cons.jpg"
+    },
+    {
+      "service_id": 2,
+      "service_name": "Pediatrics Consultation",
+      "description": "Specialized medical care for children and adolescents.",
+      "department": "Pediatrics",
+      "cost": 70.00,
+      "available": true,
+      "picture_url": "img/pediatrics_consultation.jpg"
+    },
+    {
+      "service_id": 3,
+      "service_name": "Cardiology Checkup",
+      "description": "Comprehensive heart examination and diagnosis.",
+      "department": "Cardiology",
+      "cost": 150.00,
+      "available": false,
+      "picture_url": "img/cardiology_checkup.jpg"
+    },
+    {
+      "service_id": 4,
+      "service_name": "Radiology",
+      "description": "Provides imaging services such as X-rays, CT scans, and MRIs.",
+      "department": "Radiology",
+      "cost": 120.00,
+      "available": true,
+      "picture_url": "img/radiology.jpg"
+    },
+    {
+      "service_id": 5,
+      "service_name": "Laboratory Tests",
+      "description": "Offers various blood tests, urinalysis, and other diagnostic tests.",
+      "department": "Laboratory",
+      "cost": 30.00,
+      "available": true,
+      "picture_url": "img/laboratory_tests.jpg"
+    },
+    {
+      "service_id": 6,
+      "service_name": "Physiotherapy",
+      "description": "Provides physical therapy to help patients recover mobility and strength.",
+      "department": "Physiotherapy",
+      "cost": 60.00,
+      "available": true,
+      "picture_url": "img/physiotherapy.jpg"
+    },
+    {
+      "service_id": 7,
+      "service_name": "Maternity Services",
+      "description": "Includes prenatal care, delivery, and postnatal care for mothers and babies.",
+      "department": "Maternity",
+      "cost": 200.00,
+      "available": true,
+      "picture_url": "img/maternity_services.jpg"
+    },
+    {
+      "service_id": 8,
+      "service_name": "Emergency Care",
+      "description": "24/7 emergency services for urgent medical conditions.",
+      "department": "Emergency",
+      "cost": 100.00,
+      "available": true,
+      "picture_url": "img/emergency_care.jpg"
+    }
+  ]
+

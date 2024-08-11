@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "doctor": "Dr. John Doe",
+        "body": "Dr. John Doe is an exceptional cardiologist. He took the time to explain my condition and treatment options in detail. I feel very confident in his care.",
+        "rating": 5
+    },
+    {
+        "id": 2,
+        "name": "Jane Roe",
+        "doctor": "Dr. Jane Smith",
+        "body": "Dr. Jane Smith is a wonderful orthopedic surgeon. The surgery was a success, and she made sure I was comfortable throughout the entire process.",
+        "rating": 4
+    },
+    {
+        "id": 3,
+        "name": "Alice Brown",
+        "doctor": "Dr. Albert Brown",
+        "body": "Dr. Albert Brown is a knowledgeable dermatologist. He diagnosed my skin condition accurately and provided effective treatment.",
+        "rating": 5
+    },
+    {
+        "id": 4,
+        "name": "Bob White",
+        "doctor": "Dr. Emily White",
+        "body": "Dr. Emily White is very kind and great with children. My son felt very comfortable during the consultation.",
+        "rating": 4
+    },
+    {
+        "id": 5,
+        "name": "Emma Green",
+        "doctor": "Dr. Michael Green",
+        "body": "Dr. Michael Green's expertise in neurology is impressive. He provided a thorough diagnosis and clear instructions for the treatment.",
+        "rating": 5
+    },
+    {
+        "id": 6,
+        "name": "Chris Blue",
+        "doctor": "Dr. Sarah Davis",
+        "body": "Dr. Sarah Davis is a fantastic gynecologist. She was very professional and made me feel at ease during the entire appointment.",
+        "rating": 4
+    }
+]

@@ -1,0 +1,100 @@
+{
+    "designations": [
+      {
+        "id": 1,
+        "name": "Cardiologist",
+        "slug": "cardiologist"
+      },
+      {
+        "id": 2,
+        "name": "Orthopedic Surgeon",
+        "slug": "orthopedic-surgeon"
+      },
+      {
+        "id": 3,
+        "name": "Dermatologist",
+        "slug": "dermatologist"
+      },
+      {
+        "id": 4,
+        "name": "Pediatrician",
+        "slug": "pediatrician"
+      },
+      {
+        "id": 5,
+        "name": "Neurologist",
+        "slug": "neurologist"
+      },
+      {
+        "id": 6,
+        "name": "Gynecologist",
+        "slug": "gynecologist"
+      },
+      {
+        "id": 7,
+        "name": "Oncologist",
+        "slug": "oncologist"
+      },
+      {
+        "id": 8,
+        "name": "Endocrinologist",
+        "slug": "endocrinologist"
+      },
+      {
+        "id": 9,
+        "name": "Psychiatrist",
+        "slug": "psychiatrist"
+      },
+      {
+        "id": 10,
+        "name": "Ophthalmologist",
+        "slug": "ophthalmologist"
+      },
+      {
+        "id": 11,
+        "name": "Pulmonologist",
+        "slug": "pulmonologist"
+      },
+      {
+        "id": 12,
+        "name": "Nephrologist",
+        "slug": "nephrologist"
+      },
+      {
+        "id": 13,
+        "name": "Urologist",
+        "slug": "urologist"
+      },
+      {
+        "id": 14,
+        "name": "Rheumatologist",
+        "slug": "rheumatologist"
+      },
+      {
+        "id": 15,
+        "name": "Gastroenterologist",
+        "slug": "gastroenterologist"
+      },
+      {
+        "id": 16,
+        "name": "Hematologist",
+        "slug": "hematologist"
+      },
+      {
+        "id": 17,
+        "name": "Immunologist",
+        "slug": "immunologist"
+      },
+      {
+        "id": 18,
+        "name": "Podiatrist",
+        "slug": "podiatrist"
+      },
+      {
+        "id": 19,
+        "name": "Otolaryngologist",
+        "slug": "otolaryngologist"
+      }
+    ]
+  }
+  

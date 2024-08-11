@@ -1,0 +1,100 @@
+{
+    "specializations": [
+      {
+        "id": 1,
+        "name": "Cardiology",
+        "slug": "cardiology"
+      },
+      {
+        "id": 2,
+        "name": "Orthopedics",
+        "slug": "orthopedics"
+      },
+      {
+        "id": 3,
+        "name": "Dermatology",
+        "slug": "dermatology"
+      },
+      {
+        "id": 4,
+        "name": "Pediatrics",
+        "slug": "pediatrics"
+      },
+      {
+        "id": 5,
+        "name": "Neurology",
+        "slug": "neurology"
+      },
+      {
+        "id": 6,
+        "name": "Gynecology",
+        "slug": "gynecology"
+      },
+      {
+        "id": 7,
+        "name": "Oncology",
+        "slug": "oncology"
+      },
+      {
+        "id": 8,
+        "name": "Endocrinology",
+        "slug": "endocrinology"
+      },
+      {
+        "id": 9,
+        "name": "Psychiatry",
+        "slug": "psychiatry"
+      },
+      {
+        "id": 10,
+        "name": "Ophthalmology",
+        "slug": "ophthalmology"
+      },
+      {
+        "id": 11,
+        "name": "Pulmonology",
+        "slug": "pulmonology"
+      },
+      {
+        "id": 12,
+        "name": "Nephrology",
+        "slug": "nephrology"
+      },
+      {
+        "id": 13,
+        "name": "Urology",
+        "slug": "urology"
+      },
+      {
+        "id": 14,
+        "name": "Rheumatology",
+        "slug": "rheumatology"
+      },
+      {
+        "id": 15,
+        "name": "Gastroenterology",
+        "slug": "gastroenterology"
+      },
+      {
+        "id": 16,
+        "name": "Hematology",
+        "slug": "hematology"
+      },
+      {
+        "id": 17,
+        "name": "Immunology",
+        "slug": "immunology"
+      },
+      {
+        "id": 18,
+        "name": "Podiatry",
+        "slug": "podiatry"
+      },
+      {
+        "id": 19,
+        "name": "Otolaryngology",
+        "slug": "otolaryngology"
+      }
+    ]
+  }
+  
